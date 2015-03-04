@@ -1,4 +1,4 @@
-package com.demo.task.service.test;
+package com.demo.task.service;
 
 import static org.junit.Assert.assertTrue;
 

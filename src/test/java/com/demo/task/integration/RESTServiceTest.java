@@ -1,4 +1,4 @@
-package com.demo.task.service.test;
+package com.demo.task.integration;
 
 import org.junit.Rule;
 import org.junit.runner.RunWith;
